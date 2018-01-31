@@ -1,0 +1,16 @@
+{
+	"expo": {
+		"name": "RPN Calculator",
+		"icon": "./calc.png",
+		"description": "RPN Calculator",
+		"sdkVersion": "25.0.0",
+		"version": "1.0.0",
+		"orientation": "portrait",
+		"ios": {
+			"bundleIdentifier": "com.chrisdascoli.rpncalculator"
+		},
+		"android": {
+			"package": "com.chrisdascoli.rpncalculator"
+		}
+	}
+}
